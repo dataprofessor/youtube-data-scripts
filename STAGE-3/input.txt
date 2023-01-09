@@ -1,0 +1,2 @@
+name, channel_id, subscribers_count, video_count, view_count, about, joined_date, query
+string, string, string, string, string, string, string, data science
